@@ -1,0 +1,81 @@
+
+.logo{
+  width: 20%;
+  height: auto;
+  margin: 0%;
+  padding:0%;
+}
+table{
+	border: 5px solid #ED1C24;
+	background-color:#880015;
+	margin-bottom:2%;
+}
+td{
+	font-family:Matura MT Script Capitals;
+	color:#FFFFFF;
+	width:0%;
+}
+h1{
+	color:#880015;
+	font-family:Matura MT Script Capitals;
+	text-align: center;
+}
+.T-box{
+	background-color:#880015;
+	padding:30px;
+	margin-left:30%;
+	width:40%;
+	height:30%;
+	border: 5px solid #ED1C24;
+	font-family:Matura MT Script Capitals;
+	color:#FFFFFF;
+}
+.resta{
+	width: 40%;
+  height: auto;
+  margin-left:25%;
+}
+.tags{
+	width: 5%;
+  height: auto;  
+}
+.items{
+  width: 50%;
+  height: auto;
+  margin-left:20%;
+}
+button{
+	background-color:#22b14c;
+	color:#FFFFFF;
+}
+.menu{
+	background-color:#880015;
+	padding:30px;
+	margin-left:30%;
+	width:40%;
+	height:30%;
+	border: 5px solid #a41009
+	border-collapse: collapse;
+}
+.menu_text{
+	font-family:Matura MT Script Capitals;
+	color:#FFFFFF;
+	border: 5px solid #ED1C24;
+	width:50%;
+}
+.badge {
+  padding-left: 9px;
+  padding-right: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+
+#lblCartCount {
+    font-size: 12px;
+    background: #ff0000;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+    margin-left: -10px; 
+}
